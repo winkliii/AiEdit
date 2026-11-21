@@ -6,8 +6,8 @@ Ultima versiune: **v43** ([toate versiunile](../../releases))
 
 | Descarcă | Pentru |
 |---|---|
-| [OrbanPhoto-Mac-offline-01aebb9.zip](https://github.com/winkliii/AiEdit/releases/download/v43/OrbanPhoto-Mac-offline-01aebb9.zip) | Mac cu Apple Silicon (M1 sau mai nou), macOS 15+ |
-| [OrbanPhoto-Windows-offline-01aebb9.zip](https://github.com/winkliii/AiEdit/releases/download/v43/OrbanPhoto-Windows-offline-01aebb9.zip) | Windows 10/11, 64 de biți |
+| [OrbanPhoto-Mac-offline-9fa2d10.zip](https://github.com/winkliii/AiEdit/releases/download/v43/OrbanPhoto-Mac-offline-9fa2d10.zip) | Mac cu Apple Silicon (M1 sau mai nou), macOS 15+ |
+| [OrbanPhoto-Windows-offline-9fa2d10.zip](https://github.com/winkliii/AiEdit/releases/download/v43/OrbanPhoto-Windows-offline-9fa2d10.zip) | Windows 10/11, 64 de biți |
 
 **Mac:** dezarhivează, apoi clic dreapta pe „Instalează OrbanPhoto.command” › Deschide › Deschide.
 
