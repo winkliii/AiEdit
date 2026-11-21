@@ -2,12 +2,12 @@
 
 Kituri complete pentru pluginul OrbanPhoto (Lightroom Classic). Se instalează **fără internet**.
 
-Ultima versiune: **v43** ([toate versiunile](../../releases))
+Ultima versiune: **v45.3** ([toate versiunile](../../releases))
 
 | Descarcă | Pentru |
 |---|---|
-| [OrbanPhoto-Mac-offline-9fa2d10.zip](https://github.com/winkliii/AiEdit/releases/download/v43/OrbanPhoto-Mac-offline-9fa2d10.zip) | Mac cu Apple Silicon (M1 sau mai nou), macOS 15+ |
-| [OrbanPhoto-Windows-offline-9fa2d10.zip](https://github.com/winkliii/AiEdit/releases/download/v43/OrbanPhoto-Windows-offline-9fa2d10.zip) | Windows 10/11, 64 de biți |
+| [OrbanPhoto-Mac-offline-af4511a.zip](https://github.com/winkliii/AiEdit/releases/download/v45.3/OrbanPhoto-Mac-offline-af4511a.zip) | Mac cu Apple Silicon (M1 sau mai nou), macOS 15+ |
+| [OrbanPhoto-Windows-offline-af4511a.zip](https://github.com/winkliii/AiEdit/releases/download/v45.3/OrbanPhoto-Windows-offline-af4511a.zip) | Windows 10/11, 64 de biți |
 
 **Mac:** dezarhivează, apoi clic dreapta pe „Instalează OrbanPhoto.command” › Deschide › Deschide.
 
