@@ -8,7 +8,8 @@ Linkurile de mai jos rămân aceleași la fiecare versiune nouă – duc mereu l
 
 - Pagina ultimei versiuni: https://github.com/winkliii/AiEdit/releases/latest
 - **Windows – instalator:** https://github.com/winkliii/AiEdit/releases/latest/download/OrbanPhoto-Windows.exe
-- **Mac – kit:** https://github.com/winkliii/AiEdit/releases/latest/download/OrbanPhoto-Mac.zip
+- **Mac – instalator (semnat, verificat de Apple):** https://github.com/winkliii/AiEdit/releases/latest/download/OrbanPhoto-Mac.pkg
+- Mac – kit (arhivă): https://github.com/winkliii/AiEdit/releases/latest/download/OrbanPhoto-Mac.zip
 - Windows – kit (arhivă): https://github.com/winkliii/AiEdit/releases/latest/download/OrbanPhoto-Windows.zip
 
 Versiunea anterioară: [toate versiunile](https://github.com/winkliii/AiEdit/releases) (a doua de sus).
@@ -17,6 +18,7 @@ Ultima versiune: **v48.34** ([toate versiunile](../../releases))
 
 | Descarcă | Pentru |
 |---|---|
+| [OrbanPhoto-Mac.pkg](https://github.com/winkliii/AiEdit/releases/latest/download/OrbanPhoto-Mac.pkg) | Mac – instalator (recomandat), semnat și verificat de Apple |
 | [OrbanPhoto-Mac.zip](https://github.com/winkliii/AiEdit/releases/latest/download/OrbanPhoto-Mac.zip) | Mac cu Apple Silicon (M1 sau mai nou), macOS 15+ |
 | [OrbanPhoto-Windows.exe](https://github.com/winkliii/AiEdit/releases/latest/download/OrbanPhoto-Windows.exe) | Windows 10/11 – instalator .exe (recomandat) |
 | [OrbanPhoto-Windows.zip](https://github.com/winkliii/AiEdit/releases/latest/download/OrbanPhoto-Windows.zip) | Windows 10/11, 64 de biți |
