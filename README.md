@@ -14,7 +14,7 @@ Linkurile de mai jos rămân aceleași la fiecare versiune nouă – duc mereu l
 
 Versiunea anterioară: [toate versiunile](https://github.com/winkliii/AiEdit/releases) (a doua de sus).
 
-Ultima versiune: **v48.34** ([toate versiunile](../../releases))
+Ultima versiune: **v48.39** ([toate versiunile](../../releases))
 
 | Descarcă | Pentru |
 |---|---|
